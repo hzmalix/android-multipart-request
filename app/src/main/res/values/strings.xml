@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multipart Request</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="label_result">Result:</string>
+    <string name="image">Image</string>
+    <string name="upload">Upload</string>
+    <string name="action_capture">Capture</string>
+    <string name="action_choose">Choose…</string>
+    <string name="action_cancel">Cancel</string>
+</resources>
